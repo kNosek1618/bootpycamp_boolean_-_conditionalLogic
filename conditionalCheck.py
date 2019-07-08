@@ -7,6 +7,7 @@
 # 'else':
 #        do something
 
+
 #Example of conditional statements
 name = input("Write the name:")
 
