@@ -19,11 +19,3 @@ elif name == "Marek":
 else:
     print("Carry on")
 
-#'is' operator is equal '==' operator
-print("\n")
-a=1
-print(a==1)
-print(a is 1)
-
-if a is 1:
-    print("'is' operator is equal '==' operator")
