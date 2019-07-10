@@ -8,6 +8,7 @@
 #        do something
 
 
+
 #Example of conditional statements
 name = input("Write the name:")
 
@@ -17,3 +18,12 @@ elif name == "Marek":
     print("You aren't Konrad")
 else:
     print("Carry on")
+
+#'is' operator is equal '==' operator
+print("\n")
+a=1
+print(a==1)
+print(a is 1)
+
+if a is 1:
+    print("'is' operator is equal '==' operator")
